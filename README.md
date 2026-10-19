@@ -5,7 +5,7 @@ dominent la compétition, qu'est-ce qui fait gagner une partie, quels joueurs et
 sortent du lot. Données chargées dans **PostgreSQL**, nettoyées et modélisées en **SQL**,
 restituées dans un **tableau de bord HTML interactif** généré en **Python**.
 
-**Tableau de bord :** [`docs/index.html`](docs/index.html) (à ouvrir dans un navigateur)
+**Démo en ligne :** [bekoco.github.io/cod-meta-analyzer](https://bekoco.github.io/cod-meta-analyzer/) · source : [`docs/index.html`](docs/index.html)
 
 ![Aperçu du tableau de bord](docs/captures/apercu.png)
 
