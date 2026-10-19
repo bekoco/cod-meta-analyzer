@@ -1,7 +1,7 @@
 [project]
 name = "cod-meta-analyzer"
 version = "0.1.0"
-description = "Add your description here"
+description = "Analyse des données officielles de la Call of Duty World League 2017-2019 : PostgreSQL, SQL, Python"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
